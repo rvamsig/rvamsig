@@ -11,7 +11,9 @@
 - 🛠️ Technologies, Languages, Platforms and Tools
 Hadoop Apache Spark Spark Streaming
 [Scala](https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg)
-[PySpark](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  </a>
 https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg
  [Kafka](https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg)
 [Kubernetes](https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg),
