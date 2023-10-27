@@ -8,7 +8,12 @@
 - 💞️ I’m looking to collaborate on opportunities where I can get to learn new things everyday, develop new skills and talents, exchange ideas in an inspiring and amazing atmosphere. where I can materialize my ideas and see the results of them quickly.
 - 📫 How to reach me: Check social links below E-Mail-raghu_vamsig@yahoo.co.in
 
-- 🛠️ Technologies, Languages, Platforms and Tools
+<!-- Languages and Tools -->
+
+<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+<div align="center" style="display:block;">
+    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
+</div>
 Hadoop Apache Spark Spark Streaming
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img  alt="Python" height="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg"/>
