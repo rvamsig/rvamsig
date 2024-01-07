@@ -1,15 +1,10 @@
-👩‍💻 About Me
-
-
 <h1 align="center">Hi 👋, I'm Raghu Vamsi Gundapantula</h1>
 <h1 align="center">👩🏻‍💻 Pronouns: He/Him
 <h3 align="center">A passionate data engineer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvamsig&label=Profile%20views&color=0e75b6&style=flat" alt="rvamsig" /> </p>
 
-#<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rvamsig" alt="rvamsig" /></a> </p>
-
-- 🔭 I’m currently working on **data engineerin, cloud, Dockers, Kubernetes**
+- 🔭 I’m currently working on **data engineering, cloud, Docker, Kubernetes**
 
 - 🌱 I’m currently learning **AWS, Flink**
 
