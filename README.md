@@ -1,50 +1,45 @@
 👩‍💻 About Me
-  👩🏻‍💻 Pronouns: He/Him
-- 👋 Hi, I’m Raghu Vamsi Gundapantula
-- 💼 I’m currently working as a Senior Engineer at Target.
-- 📋 I've previously worked for clients like Qatar Airways, Sony India as a Senior Business Analyst and for Fidelity Investments as a Software Engineer
-- 👀 I’m interested in constant learning and working on data engineering technologies.
-- 🌱 I’m currently working on Test Driven Development(ScalaTest), Dockers, Kubernetes, OpenShift
-- 💞️ I’m looking to collaborate on opportunities where I can get to learn new things everyday, develop new skills and talents, exchange ideas in an inspiring and amazing atmosphere. where I can materialize my ideas and see the results of them quickly.
-- 📫 How to reach me: Check social links below E-Mail-raghu_vamsig@yahoo.co.in
 
+
+<h1 align="center">Hi 👋, I'm Raghu Vamsi Gundapantula</h1>
+<h1 align="center">👩🏻‍💻 Pronouns: He/Him
+<h3 align="center">A passionate data engineer from India.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rvamsig&label=Profile%20views&color=0e75b6&style=flat" alt="rvamsig" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rvamsig" alt="rvamsig" /></a> </p>
+
+- 🔭 I’m currently working on **data engineerin, cloud, Dockers, Kubernetes**
+
+- 🌱 I’m currently learning **AWS, Flink**
+
+- 👀 I’m interested in constant learning and working on data engineering technologies.
+
+- 👯 I’m looking to collaborate on **opportunities where I can get to learn new things everyday, develop new skills and talents, exchange ideas in an inspiring and amazing atmosphere. where I can materialize my ideas and see the results of them quickly.**
+
+- 📋 I've previously worked for clients like Qatar Airways, Sony India, Fidelity Investments on different roles.
+
+- 👨‍💻 All of my projects are available at [rvamsig](rvamsig)
+
+- 💬 Ask me about **Spark, Hadoop, optimisation, distrinted systems**
+
+- 📫 How to reach me **raghu_vamsig@yahoo.co.in**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/raghu-gundapantula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghu-gundapantula/" height="30" width="40" /></a>
+</p>
+ 
 <!-- Languages and Tools -->
 
-<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
-<div align="center" style="display:block;">
-    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
-</div>
-Hadoop Apache Spark Spark Streaming
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg"/>
-  </a>)
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  </a>
-https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg
- [Kafka](https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg)
-[Kubernetes](https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg),
- GKE
-[GCP](https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg)
-https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg
-[Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg)
-https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original-wordmark.svg
-https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original-wordmark.svg
-https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg
-https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg
-https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg
-https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg
-https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rvamsig&show_icons=true&locale=en&layout=compact" alt="rvamsig" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rvamsig)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rvamsig&show_icons=true&locale=en" alt="rvamsig" /></p>
 
-☕ Hit Me Up Here
-  ![image](https://github.com/rvamsig/rvamsig/assets/12514952/3c3fc373-93c9-46b1-a983-559ad9ce87d2)
- 
- 
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rvamsig&" alt="rvamsig" /></p>
 
 <!---
 rvamsig/rvamsig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
