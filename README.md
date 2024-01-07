@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Raghu Vamsi Gundapantula</h1>
-<h1 align="center">👩🏻‍💻 Pronouns: He/Him
 <h3 align="center">A passionate data engineer providing solutions that focus on improving efficiency and quality</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvamsig&label=Profile%20views&color=0e75b6&style=flat" alt="rvamsig" /> </p>
@@ -12,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **opportunities where I can get to learn new things everyday, develop new skills and talents, exchange ideas in an inspiring and amazing atmosphere. where I can materialize my ideas and see the results of them quickly.**
 
-- 📋 I've previously worked for clients like Qatar Airways, Sony India, Fidelity Investments on different roles.
+- 📋 I've previously worked for companies like Qatar Airways, Sony India, Fidelity Investments on different roles.
 
 - 👨‍💻 All of my projects are available at [rvamsig](rvamsig)
 
