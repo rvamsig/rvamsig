@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raghu Vamsi Gundapantula</h1>
 <h1 align="center">👩🏻‍💻 Pronouns: He/Him
-<h3 align="center">A passionate data engineer from India.</h3>
+<h3 align="center">A passionate data engineer providing solutions that focus on improving efficiency and quality</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvamsig&label=Profile%20views&color=0e75b6&style=flat" alt="rvamsig" /> </p>
 
