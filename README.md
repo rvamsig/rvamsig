@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [rvamsig](rvamsig)
 
-- 💬 Ask me about **Spark, Hadoop, optimisation, distrinted systems**
+- 💬 Ask me about **Apache Spark, Hadoop, Kubernetes, distributed systems**
 
 - 📫 How to reach me **raghu_vamsig@yahoo.co.in**
 
